@@ -1,2 +1,2 @@
 a="Today monday is a good day"
-print=(a[5:])
+print(a[5:])
