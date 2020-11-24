@@ -14,7 +14,7 @@
  
  2 method
  a="POWER"
- a=a.replace('W','G') replace fuction is directly used
+ a=a.replace('W','G')   ##replace fuction is directly used
  print(a)
  
  ## 3 convert folat to int and int to float
