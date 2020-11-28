@@ -15,6 +15,7 @@ math()
 
 def covid(name,temp=98):
     print("Patient name is " + name + " and his body temperature is " + str(temp))
+covid(name,temp)
 name=str(input("Enter the patient name "))
 temp=int(input("Enter the temperature "))
 covid(name,temp)
