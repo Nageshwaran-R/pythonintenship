@@ -17,7 +17,7 @@ for _ in range(1):
 
 
 
-## print the path using sys
+## 4 print the path using sys
 
 import sys
 print(sys.path)
